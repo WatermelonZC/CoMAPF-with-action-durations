@@ -6,9 +6,8 @@ The core pathfinding engine is implemented in **C++** for efficiency and wrapped
 
 Please refer to the paper for more details:
 
-**[Insert Your Paper Title Here]**  
+**[Scalable Priority Planning for Collaborative Multi-Agent Synchronization and Routing with Action Durations], [2026]**  
 [Li, Z., Li, B., Wu, W., & Li, D.]  
-[Scalable Priority Planning for Collaborative Multi-Agent Synchronization and Routing with Action Durations], [2026].  
 [Link to arXiv or PDF]
 
 This work extends the standard Co-MAPF framework by introducing a prioritized planning approach with dynamic time-window adjustment and heatmap-based congestion avoidance, specifically optimized for scenarios with realistic operation/interaction duration constraints.
