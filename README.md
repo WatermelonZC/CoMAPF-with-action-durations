@@ -17,18 +17,17 @@ This work extends the standard Co-MAPF framework by introducing a prioritized pl
 ### 1. CPP Algorithm Demo (Collaborative Task Execution)
 The SVG below demonstrates the core collaborative behaviors of CPP (pickup, delivery, co-work) with action duration constraints on a sample map:  
 <div align="center">
-  <img src="assets/demo.svg" width="1000" alt="CPP CoMAPF-AD Demo" style="max-width: 150%;">
+  <img src="assets/demo.svg" width="800" alt="CPP CoMAPF-AD Demo" style="max-width: 100%;">
 </div>
 - **Key Features Shown**: Alpha/Beta agent synchronization, co-work duration enforcement, pickup/delivery time constraints, and collision-free path planning.
 - **File Path**: `assets/demo.svg`
 
 ### 2. CPP Scalability on Large Empty Map （32*32， 280 agents）
-The SVG below illustrates CPP's performance on a large-scale empty map (100x100 grid) with 50+ agents, showcasing its scalability and congestion avoidance capability:  
+The SVG below illustrates CPP's performance on a large-scale empty map (32x32 grid) with 280 agents, showcasing its scalability and congestion avoidance capability:  
 <div align="center">
   <img src="assets/large_scale.svg" width="800" alt="CPP Large Empty Map Performance" style="max-width: 100%;">
 </div>
-- **Key Features Shown**: Low collision rate, optimized makespan, heatmap-guided congestion avoidance, and dynamic time-window adjustment for large agent clusters.
-- **File Path**: `assets/large_empty_map.svg`
+
 
 ---
 
