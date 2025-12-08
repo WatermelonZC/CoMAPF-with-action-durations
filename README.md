@@ -116,4 +116,9 @@ Standard MAPF benchmarks are taken from [the Nathan Sturtevant's Moving AI Lab](
 You can download more benchmarks from there and put them in the maps/ folder.
 
 ## 🧩Acknowledgements
-Thanks to https://github.com/CRL-Technion/Cooperative-MAPF (foundational CoMAPF background) – We extend it with action duration constraints, congestion-guided priority queues, and Time-Constrained A* with synchronization windows (key contributions of our work)..
+We would like to express our gratitude to the developers of the following open-source projects that supported this work:
+- The [Cooperative-MAPF repository](https://github.com/CRL-Technion/Cooperative-MAPF), which provided the foundational CoMAPF framework for our research. 
+- The [POGEMA platform ](https://github.com/Cognitive-AI-Systems/pogema), which supplied the flexible and scalable visualization framework used to demonstrate the collaborative pathfinding behaviors and scalability of our CPP algorithm.
+
+This work benefits from the robust infrastructure and community-driven advancements of these open-source projects, and we sincerely appreciate the efforts of their development teams.
+
